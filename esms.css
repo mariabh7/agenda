@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Doto:wght@100..900&display=swap');
+
+body {
+    margin: 0;
+    height: 100vh;
+    /* Full viewport height */
+    background: linear-gradient(to right, #243819 5%, #1a1e11 20%, #1a1e11 80%, #243819 95%);
+}
+
+h1 {
+    font-family: 'Doto';
+    color: #859F3D;
+}
